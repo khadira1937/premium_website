@@ -46,8 +46,8 @@ export default function Navbar() {
             <Link href="/" className="group flex items-center gap-2.5">
               <div className="relative h-12 w-12 lg:h-14 lg:w-14 shrink-0">
                 <Image
-                  src="/premium_iptv_lion_logo_v1.webp"
-                  alt="Premium IPTV Logo"
+                  src="/premium-iptv-uk-logo.webp"
+                  alt="Premium IPTV UK — Best IPTV Subscription Service"
                   fill
                   className="object-contain drop-shadow-[0_0_8px_rgba(168,85,247,0.5)]"
                   priority

@@ -102,8 +102,8 @@ export default function ContactContent() {
             transition={{ duration: 0.7, delay: 0.1 }}
             className="text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight leading-[1.1] mb-6"
           >
-            <span className="text-white">Get in</span>{" "}
-            <span className="gradient-text-hero">Touch</span>
+            <span className="text-white">Contact Our IPTV UK</span>{" "}
+            <span className="gradient-text-hero">Support Team</span>
           </motion.h1>
 
           {/* Subtitle */}

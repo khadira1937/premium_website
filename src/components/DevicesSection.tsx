@@ -22,7 +22,7 @@ export default function DevicesSection() {
             Multi-Device Access
           </span>
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-foreground mb-4">
-            Works on{" "}
+            Fast IPTV Service — Works on{" "}
             <span className="gradient-text">All Your Devices</span>
           </h2>
           <p className="mx-auto max-w-xl text-lg text-muted">

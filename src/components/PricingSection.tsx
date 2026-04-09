@@ -112,12 +112,11 @@ export default function PricingSection() {
             Flexible Plans for Every Budget
           </span>
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-foreground mb-5">
-            Our{" "}
+            Our Premium IPTV{" "}
             <span className="gradient-text">Subscription Plans</span>
           </h2>
-          <p className="mx-auto max-w-xl text-lg text-muted leading-relaxed">
-            No contracts. No hidden fees. Every plan includes the full channel list,
-            VOD library, EPG, and catch-up TV. One-time payment, instant activation.
+          <p className="mx-auto max-w-2xl text-base text-muted leading-relaxed">
+            Every plan includes 4K UHD streams, built-in VPN, anti-freeze technology, full VOD access, all sports channels, 24/7 UK support, and a 30-day money-back guarantee. No hidden fees. No contracts. Cancel any time.
           </p>
         </motion.div>
 

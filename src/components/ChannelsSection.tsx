@@ -22,8 +22,8 @@ export default function ChannelsSection() {
             UK Channels That Matter
           </span>
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-foreground mb-4">
-            28,000+ Channels &{" "}
-            <span className="gradient-text">99,000+ On Demand</span>
+            37,000+ IPTV UK Channels &{" "}
+            <span className="gradient-text">198,000+ On Demand</span>
           </h2>
           <p className="mx-auto max-w-2xl text-lg text-muted">
             We carry the channels British viewers actually watch. Comprehensive coverage

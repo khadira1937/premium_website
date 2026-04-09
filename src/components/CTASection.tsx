@@ -56,13 +56,13 @@ export default function CTASection() {
           </motion.div>
 
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-white mb-6">
-            Start Watching{" "}
+            Buy IPTV & Start Watching{" "}
             <span className="gradient-text-hero">Today</span>
           </h2>
           <p className="mx-auto max-w-2xl text-lg text-gray-300/90 mb-10 leading-relaxed">
             Join thousands of UK subscribers who have already switched to Premium IPTV
             for their daily entertainment. With instant activation, a 30-day guarantee,
-            and plans starting from £9.99, there is no risk and no reason to wait.
+            and plans starting from £25.99, there is no risk and no reason to wait.
           </p>
 
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">

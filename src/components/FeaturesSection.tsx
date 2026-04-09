@@ -28,7 +28,7 @@ export default function FeaturesSection() {
             Why UK Viewers Choose Us
           </span>
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-foreground mb-4">
-            What You Get with Your{" "}
+            What You Get with Your Premium{" "}
             <span className="gradient-text">IPTV Subscription</span>
           </h2>
           <p className="mx-auto max-w-2xl text-lg text-muted">

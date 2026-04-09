@@ -21,7 +21,7 @@ export default function TestimonialsSection() {
             Trusted by Thousands
           </span>
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-foreground mb-4">
-            What Our{" "}
+            Trusted IPTV Reviews — What Our{" "}
             <span className="gradient-text">UK Subscribers</span> Say
           </h2>
           <p className="mx-auto max-w-xl text-lg text-muted">

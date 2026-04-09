@@ -6,9 +6,9 @@ import TrustSection from "@/components/TrustSection";
 import CTASection from "@/components/CTASection";
 
 export const metadata: Metadata = {
-  title: "IPTV UK Plans & Pricing — Subscribe from £9.99",
+  title: "IPTV UK Plans & Pricing — Subscribe from £25.99",
   description:
-    "Buy your IPTV subscription today. Plans from £9.99 with 28,000+ channels, 4K quality, instant activation & 30-day guarantee. No contract, cancel anytime.",
+    "Buy your IPTV subscription today. Plans from £25.99 with 37,000+ channels, 4K quality, instant activation & 30-day guarantee. No contract, cancel anytime.",
 };
 
 export default function PricingPage() {

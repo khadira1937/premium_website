@@ -16,8 +16,8 @@ export default function Footer() {
             <Link href="/" className="flex items-center gap-2.5 mb-4">
               <div className="relative h-12 w-12 shrink-0">
                 <Image
-                  src="/premium_iptv_lion_logo_v1.webp"
-                  alt="Premium IPTV Logo"
+                  src="/premium-iptv-uk-logo.webp"
+                  alt="Premium IPTV UK — Best IPTV Subscription Service"
                   fill
                   className="object-contain drop-shadow-[0_0_8px_rgba(168,85,247,0.5)]"
                 />
@@ -28,7 +28,7 @@ export default function Footer() {
             </Link>
             <p className="text-sm text-muted leading-relaxed mb-6">
               Premium IPTV subscription built specifically for viewers in the
-              United Kingdom. 28,000+ live channels, 99,000+ VOD titles.
+              United Kingdom. 37,000+ live channels, 198,000+ VOD titles.
             </p>
             <div className="space-y-2">
               <div className="flex items-center gap-2 text-sm text-muted">

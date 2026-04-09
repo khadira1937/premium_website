@@ -75,7 +75,7 @@ export default function HeroSection() {
               <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-emerald-400 opacity-75" />
               <span className="relative inline-flex h-2 w-2 rounded-full bg-emerald-400" />
             </span>
-            <span className="font-medium">The UK&apos;s #1 IPTV Service — 28,000+ Channels Live Now</span>
+            <span className="font-medium">The UK&apos;s #1 IPTV Service — 37,000+ Channels Live Now</span>
             <span className="flex gap-0.5 text-amber-400">
               {[...Array(5)].map((_, i) => <Star key={i} className="h-3 w-3 fill-current" />)}
             </span>
@@ -103,9 +103,9 @@ export default function HeroSection() {
             transition={{ duration: 0.7, delay: 0.2 }}
             className="mx-auto max-w-2xl text-lg sm:text-xl text-gray-300/90 leading-relaxed mb-10"
           >
-            Enjoy <strong className="text-white font-semibold">28,000+</strong> live channels — including
+            Enjoy <strong className="text-white font-semibold">37,000+</strong> live channels — including
             every major British broadcaster and premium sports network — plus{" "}
-            <strong className="text-white font-semibold">99,000+ films and series</strong> on demand.
+            <strong className="text-white font-semibold">198,000+ films and series</strong> on demand.
             One account, every device, instant activation.
           </motion.p>
 

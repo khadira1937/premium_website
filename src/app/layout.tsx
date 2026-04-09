@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     template: "%s | Premium IPTV",
   },
   description:
-    "Premium IPTV UK subscription with 28,000+ channels in HD & 4K. British TV, live sports, movies & VOD. Instant activation, 30-day guarantee. Subscribe now.",
+    "Premium IPTV UK subscription with 37,000+ channels in HD & 4K. British TV, live sports, movies & VOD. Instant activation, 30-day guarantee. Subscribe now.",
   keywords: [
     "IPTV UK",
     "iptv subscription",
@@ -50,13 +50,13 @@ export const metadata: Metadata = {
     siteName: "Premium IPTV",
     title: "IPTV UK — Premium IPTV Subscription | Premium IPTV 2026",
     description:
-      "Premium IPTV UK subscription with 28,000+ channels in HD & 4K. British TV, live sports, movies & VOD. Instant activation, 30-day guarantee.",
+      "Premium IPTV UK subscription with 37,000+ channels in HD & 4K. British TV, live sports, movies & VOD. Instant activation, 30-day guarantee.",
   },
   twitter: {
     card: "summary_large_image",
     title: "IPTV UK — Premium IPTV Subscription | Premium IPTV",
     description:
-      "28,000+ live channels. HD & 4K quality. No buffering. 30-day guarantee.",
+      "37,000+ live channels. HD & 4K quality. No buffering. 30-day guarantee.",
   },
   robots: {
     index: true,

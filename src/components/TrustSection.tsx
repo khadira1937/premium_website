@@ -6,23 +6,23 @@ import { Shield, Wifi, Lock, ServerCog } from "lucide-react";
 const trustItems = [
   {
     icon: Shield,
-    title: "30-Day Money Back",
-    description: "Full refund within 30 days if you're not completely satisfied. No questions asked, no hoops, no delays.",
+    title: "IPTV 30-Day Money Back",
+    description: "Full refund within 30 days if you're not completely satisfied with your IPTV subscription. No questions asked, no hoops, no delays.",
   },
   {
     icon: Wifi,
-    title: "99.9% Uptime",
-    description: "UK-optimised server infrastructure ensures your entertainment never stops streaming, even during peak hours.",
+    title: "Strong IPTV 99.9% Uptime",
+    description: "UK-optimised IPTV server infrastructure ensures your entertainment never stops streaming, even during peak hours. Strong IPTV you can rely on.",
   },
   {
     icon: Lock,
-    title: "Secure & Private",
-    description: "Encrypted connections and VPN-friendly service to protect your viewing privacy at all times.",
+    title: "Secure & Private IPTV Service",
+    description: "Encrypted connections and VPN-friendly IPTV service to protect your viewing privacy at all times.",
   },
   {
     icon: ServerCog,
-    title: "Instant Activation",
-    description: "Your subscription is activated within minutes of purchase. No waiting, no manual setup — start watching immediately.",
+    title: "Instant IPTV Activation",
+    description: "Your IPTV subscription is activated within minutes of purchase. No waiting, no manual setup — buy IPTV and start watching immediately.",
   },
 ];
 
@@ -42,7 +42,7 @@ export default function TrustSection() {
             Trust & Guarantee
           </span>
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-foreground mb-4">
-            Your Satisfaction,{" "}
+            Strong British IPTV — Your Satisfaction,{" "}
             <span className="gradient-text">Guaranteed</span>
           </h2>
           <p className="mx-auto max-w-xl text-lg text-muted">
