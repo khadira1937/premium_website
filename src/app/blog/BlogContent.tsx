@@ -92,7 +92,7 @@ export default function BlogContent() {
             transition={{ duration: 0.7, delay: 0.2 }}
             className="mx-auto max-w-2xl text-lg text-gray-300/90 leading-relaxed"
           >
-            Expert articles on IPTV setup, streaming optimisation, device guides,
+            Expert articles on IPTV setup , streaming optimisation, device guides,
             and the latest in UK television. Everything you need to make an informed decision.
           </motion.p>
         </div>
