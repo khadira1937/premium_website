@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//home/**)",
+      "Read(//home/buy-iptv-uk/.pm2/**)",
+      "Bash(chown buy-iptv-uk:buy-iptv-uk /home/buy-iptv-uk/htdocs/www.buy-iptv-uk.com/src/lib/constants.ts)",
+      "Bash(sudo -u buy-iptv-uk bash -lc 'source ~/.nvm/nvm.sh && npm run build')",
+      "Bash(sudo -u buy-iptv-uk bash -lc 'source ~/.nvm/nvm.sh && pm2 restart buy-iptv-uk')",
+      "Bash(curl -s http://127.0.0.1:3000/)",
+      "Read(//tmp/**)",
+      "Bash(grep -oE \"All 37,000 channels open immediately[^<]{0,300}\" /tmp/home.html)",
+      "Bash(grep -oE \"37,000 channels open immediately[^<]{0,300}\" /tmp/home.html)",
+      "Bash(grep -oE \"channels open immediately.{0,250}\" /tmp/home.html)",
+      "Bash(chown buy-iptv-uk:buy-iptv-uk /home/buy-iptv-uk/htdocs/www.buy-iptv-uk.com/src/app/page.tsx)",
+      "Bash(curl -s http://127.0.0.1:3000/robots.txt)",
+      "Bash(curl -sI http://127.0.0.1:3000/robots.txt)",
+      "Bash(curl -s https://www.buy-iptv-uk.com/robots.txt)",
+      "Bash(curl -sI https://www.buy-iptv-uk.com/robots.txt)",
+      "Bash(curl -sI https://buy-iptv-uk.com/)",
+      "Bash(curl -sI https://www.buy-iptv-uk.com/)",
+      "Bash(chown buy-iptv-uk:buy-iptv-uk /home/buy-iptv-uk/htdocs/www.buy-iptv-uk.com/src/app/robots.ts)"
+    ],
+    "additionalDirectories": [
+      "/tmp"
+    ]
+  }
+}

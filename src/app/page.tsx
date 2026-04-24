@@ -150,14 +150,6 @@ export default function HomePage() {
                   text: "The 12-month plan is our best-seller because it cuts the monthly rate by 40 percent while covering every channel, screen and VOD title. The 24-month plan saves 55 percent for viewers who are committed.",
                 },
               },
-              {
-                "@type": "Question",
-                name: "Can I buy IPTV for a Firestick?",
-                acceptedAnswer: {
-                  "@type": "Answer",
-                  text: "Yes. Install IPTV Smarters Pro from the Amazon store, open the app, and enter the M3U credentials from your welcome email. The full 37,000-channel guide loads in under two minutes.",
-                },
-              },
             ],
           }),
         }}

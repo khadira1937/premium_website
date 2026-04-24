@@ -1,5 +1,5 @@
 export const SITE_NAME = "Buy IPTV UK";
-export const SITE_URL = "https://buy-iptv-uk.com";
+export const SITE_URL = "https://www.buy-iptv-uk.com";
 export const CONTACT_EMAIL = "support@buy-iptv-uk.com";
 
 export const NAV_LINKS = [
@@ -263,11 +263,6 @@ export const FAQ_ITEMS = [
       "The 12-month plan is our best-seller because it cuts the monthly rate by 40 percent while covering every channel, screen and VOD title. The 24-month plan saves 55 percent for viewers who are committed.",
   },
   {
-    question: "Can I buy IPTV for a Firestick?",
-    answer:
-      "Yes. Install IPTV Smarters Pro from the Amazon store, open the app, and enter the M3U credentials from your welcome email. The full 37,000-channel guide loads in under two minutes.",
-  },
-  {
     question: "Do I need an IPTV box to use this service?",
     answer:
       "No. A dedicated IPTV box UK works, but so does any phone, tablet, smart TV or laptop. One login covers up to five devices at the same time.",
@@ -285,17 +280,17 @@ export const FAQ_ITEMS = [
   {
     question: "What channels come with every plan?",
     answer:
-      "All 37,000 channels open immediately. That includes every Sky Sports feed, TNT Sports, Premier Sports, BBC, ITV, Channel 4, Sky Cinema and 40+ international language packs.",
+      "All 37,000 channels open immediately — a complete line-up spanning British entertainment and drama, live UK and international sport, movies and on-demand cinema, kids and family, rolling news and 40+ international language packs. No add-ons, no bolt-ons, no hidden tiers.",
   },
 ] as const;
 
 export const CHANNEL_CATEGORIES = [
-  { name: "British IPTV 4K Drama & Entertainment", count: "500+", icon: "Tv" as const, channels: "ITV1 to ITV4, Channel 4, E4, More4, Channel 5, Dave, Gold and Sky Max all land in HD. Every regional variant and every +1 timeshift channel comes included." },
-  { name: "Live UK Sport on the Best IPTV UK Subscription", count: "5,500+", icon: "Trophy" as const, channels: "Stream every Sky Sports channel, TNT Sports, Premier Sports, Eurosport and FreeSports. Watch Premier League, Champions League, F1, rugby, darts and the Masters live in 4K." },
-  { name: "IPTV UK 4K On-Demand Movies & Cinema", count: "198,000+", icon: "Film" as const, channels: "The VOD library holds 198,000 films and series, refreshed each day. Open Sky Cinema, Paramount Network and global premiere feeds from the same menu." },
-  { name: "Buy IPTV UK for Kids & Family Entertainment", count: "800+", icon: "Baby" as const, channels: "CBBC, CBeebies, Nickelodeon, Nick Jr, Cartoon Network and Disney Channel stream in HD. Set a four-digit PIN to lock any channel from the parental control tab." },
-  { name: "Rolling News from Top-Tier IPTV Providers UK", count: "1,200+", icon: "Newspaper" as const, channels: "BBC News, Sky News, GB News, CNN International, Al Jazeera and Bloomberg run live in a dedicated news category. Stay current on every story as it breaks." },
-  { name: "Premium IPTV UK International Channels", count: "17,000+", icon: "Globe" as const, channels: "Arabic, Urdu, Polish, Portuguese, Turkish, French and African channels stream in full HD. Switch country feeds from the sidebar filter in a single tap." },
+  { name: "British IPTV 4K Drama & Entertainment", count: "500+", icon: "Tv" as const, channels: "Every mainstream British entertainment and drama network is included in crisp HD, with full regional variants and +1 timeshift feeds so primetime favourites, soaps and box-set originals are always a click away." },
+  { name: "Live UK Sport on the Best IPTV UK Subscription", count: "5,500+", icon: "Trophy" as const, channels: "A complete line-up of UK and international sports networks streams every fixture that matters — top-flight football, European club competitions, motorsport, rugby, cricket, tennis, darts and the majors — live in 4K." },
+  { name: "IPTV UK 4K On-Demand Movies & Cinema", count: "198,000+", icon: "Film" as const, channels: "A daily-refreshed on-demand library packs blockbusters, cult classics, award-winners and exclusive original series, with premium cinema platforms and global premiere feeds bundled into the same menu." },
+  { name: "Buy IPTV UK for Kids & Family Entertainment", count: "800+", icon: "Baby" as const, channels: "A full line-up of children's and family networks streams in HD — preschool, animation, cartoons and family favourites all in one place, with built-in parental controls that PIN-lock anything in seconds." },
+  { name: "Rolling News from Top-Tier IPTV Providers UK", count: "1,200+", icon: "Newspaper" as const, channels: "Round-the-clock UK and international rolling news runs live in a dedicated category, so you can follow every breaking story, market update and political briefing the moment it airs — in HD, across every continent." },
+  { name: "Premium IPTV UK International Channels", count: "17,000+", icon: "Globe" as const, channels: "Live and on-demand programming from every major region — European, Middle Eastern, South Asian, African, Far Eastern and the Americas — streams in full HD, switchable from the sidebar country filter in a single tap." },
 ] as const;
 
 export const BLOG_POSTS = [
